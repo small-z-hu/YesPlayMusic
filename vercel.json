@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/:match*",
-      "destination": "https://yes-play-music-eight-pi.vercel.app/:match*"
-    }
-  ]
-}
